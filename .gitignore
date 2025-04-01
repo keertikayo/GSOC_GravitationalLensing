@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+common_test
+lens-finding-test
+node_modules
+package-lock.json
